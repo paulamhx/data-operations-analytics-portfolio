@@ -1,0 +1,15 @@
+# Entornos virtuales
+.venv/
+venv/
+
+# Python
+__pycache__/
+*.pyc
+
+# PyCharm / IDEs
+.idea/
+
+# Mac
+.DS_Store
+# created by virtualenv automatically
+.venv/bin
